@@ -1,0 +1,13 @@
+{
+  "name": "streamdeck-intellij",
+  "description": "Plugin for using Elgato Streamdeck with IntelliJ IDEA",
+  "author": {
+    "name": "Patrick Hund",
+    "url": "http://zapperment.rocks/"
+  },
+  "license": "MIT",
+  "packageManager": "yarn@3.4.1",
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  }
+}

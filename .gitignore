@@ -2,6 +2,4 @@
 .idea/**
 /src/DistributionTool
 com.elgato.template.streamDeckPlugin
-.vscode/**
-package.json
 .history
