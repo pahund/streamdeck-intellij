@@ -1,6 +1,11 @@
 {
   "name": "streamdeck-intellij",
   "description": "Plugin for using Elgato Streamdeck with IntelliJ IDEA",
+  "version": "0.0.1",
+  "scripts": {
+    "debug-on": "defaults write com.elgato.StreamDeck html_remote_debugging_enabled -bool YES",
+    "deploy": "cp -R src/rocks.zapperment.intellij.sdPlugin \"$SD_PLUGINS/\""
+  },
   "author": {
     "name": "Patrick Hund",
     "url": "http://zapperment.rocks/"

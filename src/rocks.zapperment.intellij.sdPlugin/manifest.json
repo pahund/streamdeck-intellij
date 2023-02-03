@@ -2,11 +2,11 @@
   "SDKVersion": 2,
   "Author": "Patrick Hund",
   "CodePath": "app.html",
-  "Description": "Plugin for using Elgato Streamdeck with IntelliJ IDEA",
-  "Name": "Streamdeck IntelliJ",
-  "Icon": "actions/template/assets/action",
+  "Description": "Control your IDE with your Stream Deck",
+  "Name": "IntelliJ IDEA",
+  "Icon": "assets/store-icon",
   "URL": "https://www.elgato.com/en/gaming/stream-deck",
-  "Version": "1.0.0",
+  "Version": "0.0.1",
   "Software": {
     "MinimumVersion": "5.0"
   },
@@ -20,8 +20,8 @@
       "MinimumVersion": "10"
     }
   ],
-  "Category": "Developer Tools",
-  "CategoryIcon": "actions/template/assets/actionimage",
+  "Category": "IntelliJ IDEA",
+  "CategoryIcon": "assets/category-icon",
   "Actions": [
     {
       "Icon": "actions/template/assets/actionimage",

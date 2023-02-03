@@ -13,7 +13,7 @@ $SD.onConnected(
 );
 
 myAction.onKeyUp(({ action, context, device, event, payload }) => {
-  console.log("Your key code goes here!");
+  console.log("[PH_LOG] ¡Hola!"); // PH_TODO
 });
 
 myAction.onDialRotate(({ action, context, device, event, payload }) => {
